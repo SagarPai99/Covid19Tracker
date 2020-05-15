@@ -3,6 +3,8 @@ This is a ReactJS projects which was built using the MathdroAPI for keeping trac
 
 Website : http://covid19globals.herokuapp.com/
 
+Feel free to give a review !
+
 ## Demo
 
 ![Covid19-Tracker-Demo](demo.gif)
